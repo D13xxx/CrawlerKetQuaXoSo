@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb773eac-bb53-48d1-bb13-2f99e3bfcb7d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/views/layouts/main.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/views/layouts/base.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/config/base.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1870">
+              <caret line="110" column="20" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/config/base.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/config/_urlManager.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/config/_cache.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/views/layouts/_clear.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/modules/user/controllers/SignInController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3213">
+              <caret line="208" column="29" selection-start-line="208" selection-start-column="29" selection-end-line="208" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/modules/user/models/PasswordResetRequestForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mb_g0 red</find>
+      <find>DOMNodelis</find>
+      <find>$input</find>
+      <find>$keyMt</find>
+      <find>$kq</find>
+      <find>$input[$i]</find>
+      <find>$mn</find>
+      <find>'/[\t\s]/'</find>
+      <find>ec</find>
+      <find>echo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$maTinh[1]</replace>
+      <replace>$input</replace>
+      <replace>'/[\t\s\.\,]/'</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/models/Province.php" />
+        <option value="$PROJECT_DIR$/backend/views/province/_form.php" />
+        <option value="$PROJECT_DIR$/backend/views/site/xo-so-mien-bac.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/models/Result.php" />
+        <option value="$PROJECT_DIR$/api/controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/controllers/ResultController.php" />
+        <option value="$PROJECT_DIR$/common/models/DungChung.php" />
+        <option value="$PROJECT_DIR$/backend/views/province/xo-so-mien-trung.php" />
+        <option value="$PROJECT_DIR$/backend/views/province/xo-so-mien-bac.php" />
+        <option value="$PROJECT_DIR$/backend/config/web.php" />
+        <option value="$PROJECT_DIR$/backend/views/province/index.php" />
+        <option value="$PROJECT_DIR$/backend/views/result/index.php" />
+        <option value="$PROJECT_DIR$/backend/views/result/xo-so-mien-bac.php" />
+        <option value="$PROJECT_DIR$/backend/controllers/ProvinceController.php" />
+        <option value="$PROJECT_DIR$/backend/web/json/xo-so-mien-nam.json" />
+        <option value="$PROJECT_DIR$/backend/web/json/power655.json" />
+        <option value="$PROJECT_DIR$/backend/views/power655/index.php" />
+        <option value="$PROJECT_DIR$/backend/web/json/mega645.json" />
+        <option value="$PROJECT_DIR$/backend/web/json/max4d.json" />
+        <option value="$PROJECT_DIR$/backend/views/result/ket-qua-xo-so.php" />
+        <option value="$PROJECT_DIR$/backend/web/json/xo-so-mien-trung.json" />
+        <option value="$PROJECT_DIR$/backend/views/result/mega645.php" />
+        <option value="$PROJECT_DIR$/backend/views/result/max4d.php" />
+        <option value="$PROJECT_DIR$/common/models/Result.php" />
+        <option value="$PROJECT_DIR$/backend/views/result/_search-vietlott655.php" />
+        <option value="$PROJECT_DIR$/backend/views/result/vietlott655.php" />
+        <option value="$PROJECT_DIR$/backend/web/json/xo-so-mien-bac.json" />
+        <option value="$PROJECT_DIR$/backend/views/result/_search-mega645.php" />
+        <option value="$PROJECT_DIR$/backend/views/result/_search-max4d.php" />
+        <option value="$PROJECT_DIR$/common/models/Mega645.php" />
+        <option value="$PROJECT_DIR$/common/models/Max4d.php" />
+        <option value="$PROJECT_DIR$/backend/views/result/_search-ket-qua-xo-so.php" />
+        <option value="$PROJECT_DIR$/backend/views/layouts/common.php" />
+        <option value="$PROJECT_DIR$/frontend/config/web.php" />
+        <option value="$PROJECT_DIR$/frontend/views/result/ket-qua-xo-so.php" />
+        <option value="$PROJECT_DIR$/frontend/controllers/ResultController.php" />
+        <option value="$PROJECT_DIR$/backend/controllers/SignInController.php" />
+        <option value="$PROJECT_DIR$/backend/controllers/ResultController.php" />
+        <option value="$PROJECT_DIR$/backend/controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/common/models/Power655.php" />
+        <option value="$PROJECT_DIR$/frontend/views/layouts/base.php" />
+        <option value="$PROJECT_DIR$/common/config/base.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/frontend/views/layouts/_clear.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/npm-asset/array-filter" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/create-hmac" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/bootstrap-slider" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/browserify-rsa" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/jquery" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/is-buffer" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/des.js" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/umd" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/font-awesome" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/parse-asn1" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/ionicons" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/subarg" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/chart.js" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/domain-browser" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/path-platform" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/util-extend" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/lodash.memoize" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/public-encrypt" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/parents" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/buffer-xor" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/browserify-zlib" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/deps-sort" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/bn.js" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/elliptic" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/morris.js" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/hash.js" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/once" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/stream-splicer" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/inflight" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/detective" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/array-reduce" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/path-is-absolute" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/jquery-knob" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/querystring" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/hash-base" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/bootstrap-datepicker" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/buffer" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/has" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/string_decoder" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/labeled-stream-splicer" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/browserify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/jsonparse" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/combine-source-map" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/miller-rabin" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/stream-http" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/xtend" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/ckeditor" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/constants-browserify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/browserify-des" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/function-bind" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/ion-rangeslider" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/datatables.net-bs" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/through" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/resolve" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/safe-buffer" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/browserify-sign" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/path-browserify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/inputmask" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/inline-source-map" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/evp_bytestokey" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/shell-quote" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/classie" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/slimscroll" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/charm" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/jquery-sparkline" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/url" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/raphael" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/through2" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/admin-lte" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/html5shiv" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/timers-browserify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/tty-browserify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/inherits" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/ieee754" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/htmlescape" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/crypto-browserify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/isarray" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/wrappy" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/cipher-base" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/assert" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/moment" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/select2" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/os-browserify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/minimalistic-assert" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/lexical-scope" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/util-deprecate" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/fullcalendar" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/browserify-aes" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/glob" />
+      <path value="$PROJECT_DIR$/vendor/studio-42/elfinder" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/read-only-stream" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/console-browserify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/asn1.js" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/builtin-status-codes" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/swagger-ui" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/brorand" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/blueimp-canvas-to-blob" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/shasum" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/eonasdan-bootstrap-datetimepicker" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/minimalistic-crypto-utils" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/blueimp-load-image" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/https-browserify" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/ace-builds" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/util" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/moment" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/fastclick" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/process-nextick-args" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/punycode" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/blueimp-tmpl" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/minimist" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/blueimp-file-upload" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/randomfill" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/balanced-match" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/browser-pack" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery-ui" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/pace" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/almond" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/typeahead.js" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/md5.js" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/stream-combiner2" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/pbkdf2" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/bootstrap-timepicker" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/bootstrap-colorpicker" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/pako" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/defined" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/events" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/stream-browserify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/create-ecdh" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/jvectormap" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/flot" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/eve-raphael" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/json-stable-stringify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/astw" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/convert-source-map" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/querystring-es3" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/array-map" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/duplexer2" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/browser-resolve" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/diffie-hellman" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/browserify-cipher" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/bootstrap-daterangepicker" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/acorn" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/typedarray" />
+      <path value="$PROJECT_DIR$/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/minimatch" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/module-deps" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/jquery-mousewheel" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/source-map" />
+      <path value="$PROJECT_DIR$/vendor/facebook/webdriver" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/alexantr/yii2-elfinder" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/league/uri-components" />
+      <path value="$PROJECT_DIR$/vendor/league/glide" />
+      <path value="$PROJECT_DIR$/vendor/league/uri-hostname-parser" />
+      <path value="$PROJECT_DIR$/vendor/league/uri-schemes" />
+      <path value="$PROJECT_DIR$/vendor/league/uri-parser" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/uri-interfaces" />
+      <path value="$PROJECT_DIR$/vendor/league/uri-manipulations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/zircote/swagger-php" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/datatables.net" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/trntv/probe" />
+      <path value="$PROJECT_DIR$/vendor/trntv/yii2-datetime-widget" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/yii2-starter-kit/yii2-file-kit" />
+      <path value="$PROJECT_DIR$/vendor/trntv/yii2-aceeditor" />
+      <path value="$PROJECT_DIR$/vendor/trntv/yii2-command-bus" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/vendor/trntv/sitemaped" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-httpclient" />
+      <path value="$PROJECT_DIR$/vendor/trntv/cheatsheet" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/vendor/trntv/yii2-glide" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-jui" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-queue" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/vendor/asofter/yii2-imperavi-redactor" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-authclient" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/yii2mod/yii2-swagger" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/date-now" />
+      <path value="$PROJECT_DIR$/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/indexof" />
+      <path value="$PROJECT_DIR$/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/insert-module-globals" />
+      <path value="$PROJECT_DIR$/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/concat-stream" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/hmac-drbg" />
+      <path value="$PROJECT_DIR$/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/readable-stream" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/concat-map" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/fs.realpath" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/jsonify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/create-hash" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/randombytes" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/domhelper" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/jquery-slimscroll" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/cached-path-relative" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/core-util-is" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/sha.js" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/brace-expansion" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/jsonstream" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/jquery-ui" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/ripemd160" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/process" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/base64-js" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/syntax-error" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/vm-browserify" />
+      <path value="$PROJECT_DIR$/vendor/npm-asset/to-arraybuffer" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-krajee-base" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-grid" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-dialog" />
+      <path value="$PROJECT_DIR$/vendor/imangazaliev/didom" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-select2" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-date-range" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-switchinput" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/bootstrap-star-rating" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-spinner" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-sidenav" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/bootstrap-fileinput" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-rating" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-fileinput" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-rangeinput" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-depdrop" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/dependent-dropdown" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-timepicker" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-typeahead" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-growl" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-touchspin" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-activeform" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widgets" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-datepicker" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-datetimepicker" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-alert" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-colorinput" />
+      <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-affix" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-4" />
+    <option name="y" value="340" />
+    <option name="width" value="1377" />
+    <option name="height" value="395" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appXoSo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appXoSo" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Xampp\htdocs\web-dev\appXoSo\backend\views\result" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Xampp\htdocs\web-dev\appXoSo\frontend\web" />
+      <recent name="F:\Xampp\htdocs\web-dev\appXoSo\frontend\controllers" />
+      <recent name="F:\Xampp\htdocs\web-dev\appXoSo\frontend\views" />
+      <recent name="F:\Xampp\htdocs\web-dev\appXoSo\backend\views\result" />
+      <recent name="F:\Xampp\htdocs\web-dev\appXoSo\backend\web\json" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="codeception.yml" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings scope="ConfigurationFile" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb773eac-bb53-48d1-bb13-2f99e3bfcb7d" name="Default Changelist" comment="" />
+      <created>1561450515329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561450515329</updated>
+      <workItem from="1561450517741" duration="9078000" />
+      <workItem from="1561514276130" duration="16378000" />
+      <workItem from="1561535369162" duration="9434000" />
+      <workItem from="1561599678406" duration="28252000" />
+      <workItem from="1561686197512" duration="25236000" />
+      <workItem from="1561772411829" duration="12478000" />
+      <workItem from="1561790657204" duration="12560000" />
+      <workItem from="1561908701877" duration="114000" />
+      <workItem from="1561908925889" duration="27605000" />
+      <workItem from="1561970545521" duration="3480000" />
+      <workItem from="1562031836596" duration="654000" />
+      <workItem from="1562032917945" duration="3618000" />
+      <workItem from="1562129094350" duration="518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="149405000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23524962" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21558245" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backend/views/province/index.php" />
+    <entry file="file://$PROJECT_DIR$/backend/controllers/ProvinceController.php" />
+    <entry file="file://$PROJECT_DIR$/backend/web/json/xo-so-mien-nam.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views/power655/index.php" />
+    <entry file="file://$PROJECT_DIR$/backend/web/json/power655.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/web/json/mega645.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="489" selection-start-column="489" selection-end-column="489" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/web/json/xo-so-mien-trung.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views/result/ket-qua-xo-so.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/web/json/max4d.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views/result/max4d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views/result/mega645.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="920" column="27" selection-start-line="920" selection-start-column="27" selection-end-line="920" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views/result/_search-vietlott655.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="6" selection-end-line="20" />
+          <folding>
+            <element signature="e#7#28#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/Result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views/result/vietlott655.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/web/json/xo-so-mien-bac.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views/result/_search-mega645.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#7#28#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views/result/_search-max4d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#7#28#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views/result/_search-ket-qua-xo-so.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding>
+            <element signature="e#7#28#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views/layouts/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="147" column="36" selection-start-line="147" selection-start-column="36" selection-end-line="147" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/json/max4d.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret selection-end-line="123" />
+          <folding>
+            <element signature="e#40#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/config/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/result/view.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/controllers/SoicauController.php" />
+    <entry file="file://$PROJECT_DIR$/backend/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/controllers/ResultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+          <folding>
+            <element signature="e#39#63#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/rbac/controllers/RbacAuthAssignmentController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/rbac/controllers/RbacAuthItemController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/modules/rbac/controllers/RbacAuthRuleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/controllers/ResultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14671">
+          <caret line="890" column="64" selection-start-line="890" selection-start-column="64" selection-end-line="890" selection-end-column="64" />
+          <folding>
+            <element signature="e#40#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/controllers/SignInController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/result/ket-qua-xo-so.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/Mega645.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/Max4d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/Power655.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/Province.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/config/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-613">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/config/console.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/config/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/layouts/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="110" column="20" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/config/base.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/config/_urlManager.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/config/_cache.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/user/controllers/SignInController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3213">
+          <caret line="208" column="29" selection-start-line="208" selection-start-column="29" selection-end-line="208" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/modules/user/models/PasswordResetRequestForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/layouts/_clear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
