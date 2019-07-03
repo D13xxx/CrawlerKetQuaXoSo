@@ -1,4 +1,5 @@
-# Đọc dữ liệu https://ketqua.vn/truc-tiep-xo-so-mien-bac
+# Crawler data
+https://ketqua.vn/truc-tiep-xo-so-mien-bac
 #https://ketqua.vn/truc-tiep-xo-so-mien-trung
 #https://ketqua.vn/truc-tiep-xo-so-mien-nam
 #https://vietlott.vn/vi/trung-thuong/ket-qua-trung-thuong/655
