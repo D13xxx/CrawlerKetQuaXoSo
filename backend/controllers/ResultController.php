@@ -72,50 +72,50 @@ class ResultController extends Controller
         return $return;
     }
 
-    function getCrawlerTheoNgayMienBac($url)
-    {
-        $document = new Document();
-        $document->loadHtmlFile($url);
-        $input = [];
-        $input[0] = $document->find('td')[42];
-        $input[1] = $document->find('td')[44];
-        $input[2] = $document->find('td')[46];
-        $input[3] = $document->find('td')[47];
-        $input[4] = $document->find('td')[49];
-        $input[5] = $document->find('td')[50];
-        $input[6] = $document->find('td')[51];
-        $input[7] = $document->find('td')[52];
-        $input[8] = $document->find('td')[53];
-        $input[9] = $document->find('td')[54];
-        $input[10] = $document->find('td')[56];
-        $input[11] = $document->find('td')[57];
-        $input[12] = $document->find('td')[58];
-        $input[13] = $document->find('td')[59];
-        $input[14] = $document->find('td')[61];
-        $input[15] = $document->find('td')[62];
-        $input[16] = $document->find('td')[63];
-        $input[17] = $document->find('td')[64];
-        $input[18] = $document->find('td')[65];
-        $input[19] = $document->find('td')[66];
-        $input[20] = $document->find('td')[68];
-        $input[21] = $document->find('td')[69];
-        $input[22] = $document->find('td')[70];
-        $input[23] = $document->find('td')[72];
-        $input[24] = $document->find('td')[73];
-        $input[25] = $document->find('td')[74];
-        $input[26] = $document->find('td')[75];
-        $str = "";
-        $str .= $input[0] . '|,';
-        $str .= $input[1] . '|,';
-        $str .= $input[2] . ',' . $input[3] . '|,';
-        $str .= $input[4] . ',' . $input[5] . ',' . $input[6] . ',' . $input[7] . ',' . $input[8] . ',' . $input[9] . '|,';
-        $str .= $input[10] . ',' . $input[11] . ',' . $input[12] . ',' . $input[13] . '|,';
-        $str .= $input[14] . ',' . $input[15] . ',' . $input[16] . ',' . $input[17] . ',' . $input[18] . ',' . $input[19] . '|,';
-        $str .= $input[20] . ',' . $input[21] . ',' . $input[22] . '|,';
-        $str .= $input[23] . ',' . $input[24] . ',' . $input[25] . ',' . $input[26];
-        $stripTagStr = strip_tags(trim(preg_replace('/[\t\s]/', '', $str)));
-        return $stripTagStr;
-    }
+//    function getCrawlerTheoNgayMienBac($url)
+//    {
+//        $document = new Document();
+//        $document->loadHtmlFile($url);
+//        $input = [];
+//        $input[0] = $document->find('td')[42];
+//        $input[1] = $document->find('td')[44];
+//        $input[2] = $document->find('td')[46];
+//        $input[3] = $document->find('td')[47];
+//        $input[4] = $document->find('td')[49];
+//        $input[5] = $document->find('td')[50];
+//        $input[6] = $document->find('td')[51];
+//        $input[7] = $document->find('td')[52];
+//        $input[8] = $document->find('td')[53];
+//        $input[9] = $document->find('td')[54];
+//        $input[10] = $document->find('td')[56];
+//        $input[11] = $document->find('td')[57];
+//        $input[12] = $document->find('td')[58];
+//        $input[13] = $document->find('td')[59];
+//        $input[14] = $document->find('td')[61];
+//        $input[15] = $document->find('td')[62];
+//        $input[16] = $document->find('td')[63];
+//        $input[17] = $document->find('td')[64];
+//        $input[18] = $document->find('td')[65];
+//        $input[19] = $document->find('td')[66];
+//        $input[20] = $document->find('td')[68];
+//        $input[21] = $document->find('td')[69];
+//        $input[22] = $document->find('td')[70];
+//        $input[23] = $document->find('td')[72];
+//        $input[24] = $document->find('td')[73];
+//        $input[25] = $document->find('td')[74];
+//        $input[26] = $document->find('td')[75];
+//        $str = "";
+//        $str .= $input[0] . '|,';
+//        $str .= $input[1] . '|,';
+//        $str .= $input[2] . ',' . $input[3] . '|,';
+//        $str .= $input[4] . ',' . $input[5] . ',' . $input[6] . ',' . $input[7] . ',' . $input[8] . ',' . $input[9] . '|,';
+//        $str .= $input[10] . ',' . $input[11] . ',' . $input[12] . ',' . $input[13] . '|,';
+//        $str .= $input[14] . ',' . $input[15] . ',' . $input[16] . ',' . $input[17] . ',' . $input[18] . ',' . $input[19] . '|,';
+//        $str .= $input[20] . ',' . $input[21] . ',' . $input[22] . '|,';
+//        $str .= $input[23] . ',' . $input[24] . ',' . $input[25] . ',' . $input[26];
+//        $stripTagStr = strip_tags(trim(preg_replace('/[\t\s]/', '', $str)));
+//        return $stripTagStr;
+//    }
 
     function getSwitchDate($listDate){
         $nameDates = date("l",strtotime($listDate));
@@ -259,13 +259,11 @@ class ResultController extends Controller
                     switch ($weekdays) {
                         case 'monday':
                             $weekday = 'T.2';
-
                             $mt = array(array(183, "py", "phu-yen", "Phú Yên", "py", 27), array(188, "tth", "thua-thien-hue", "Thừa Thiên Huế", "tth", 26));
                             $mn = array(array(166, "hcm", "ho-chi-minh", "Hồ Chí Minh", "hcm", 1), array(160, "cm", "ca-mau", "Cà Mau", "cm", 3), array(164, "dt", "dong-thap", "Đồng Tháp", "dt", 2));
                             break;
                         case 'tuesday':
                             $weekday = 'T.3';
-
                             $mt = array(array(177, "dl", "dac-lac", "Đắc Lắc", "dlk", 29), array(186, "qn", "quang-nam", "Quảng Nam", "qnm", 28));
                             $mn = array(array(155, "bt", "ben-tre", "Bến Tre", "btr", 7), array(174, "vt", "vung-tau", "Vũng Tàu", "vt", 8), array(120, "bl", "bac-lieu", "Bạc Liêu", "bl", 9));
                             break;
@@ -276,28 +274,22 @@ class ResultController extends Controller
                             break;
                         case 'thursday':
                             $weekday = 'T.5';
-
                             $mt = array(array(175, "bd", "binh-dinh", "Bình Định", "bdh", 32), array(184, "qb", "quang-binh", "Quảng Bình", "qb", 33), array(187, "qt", "quang-tri", "Quảng Trị", "qt", 34));
                             $mn = array(array(156, "ag", "an-giang", "An Giang", "ag", 14), array(170, "tn", "tay-ninh", "Tây Ninh", "tn", 13), array(159, "bt", "binh-thuan", "Bình Thuận", "bth", 15));
-
                             break;
                         case 'friday':
                             $weekday = 'T.6';
-
                             $mt = array(array(179, "gl", "gia-lai", "Gia Lai", "gl", 35), array(182, "nt", "ninh-thuan", "Ninh Thuận", "nt", 36));
                             $mn = array(array(157, "bd", "binh-duong", "Bình Dương", "bd", 17), array(172, "tv", "tra-vinh", "Trà Vinh", "tv", 18), array(173, "vl", "vinh-long", "Vĩnh Long", "vl", 16));
-
                             break;
                         case 'saturday':
                             $weekday = 'T.7';
 
                             $mt = array(array(176, "dn", "da-nang", "Đà Nẵng", "dng", 30), array(178, "dn", "dac-nong", "Đắc Nông", "dno", 38), array(185, "qn", "quang-ngai", "Quảng Ngãi", "qni", 37));
                             $mn = array(array(166, "hcm", "ho-chi-minh", "Hồ Chí Minh", "hcm", 1), array(168, "la", "long-an", "Long An", "la", 19), array(158, "bp", "binh-phuoc", "Bình Phước", "bp", 21), array(165, "hg", "hau-giang", "Hậu Giang", "hg", 20));
-
                             break;
                         default:
                             $weekday = 'CN';
-
                             $mt = array(array(181, "kt", "kon-tum", "Kon Tum", "kt", 39), array(180, "kh", "khanh-hoa", "Khánh Hoà", "kh", 31));
                             $mn = array(array(171, "tg", "tien-giang", "Tiền Giang", "tg", 22), array(167, "kg", "kien-giang", "Kiên Giang", "kg", 23), array(162, "dl", "da-lat", "Đà Lạt", "dl", 24));
                             break;
@@ -371,9 +363,9 @@ class ResultController extends Controller
                     }
                     // mieen nam
                     foreach ($mn as $maTinh) {
-                        $urlMienTrung = "http://ketqua.vn/kqxs$maTinh[1]-ket-qua-xo-so-$maTinh[2]-ngay-".date('d-m-Y',strtotime($listDate));
+                        $urlMienNam = "http://ketqua.vn/kqxs$maTinh[1]-ket-qua-xo-so-$maTinh[2]-ngay-".date('d-m-Y',strtotime($listDate));
                         $document = new Document();
-                        $document->loadHtmlFile($urlMienTrung);
+                        $document->loadHtmlFile($urlMienNam);
                         $input = [];
                         $input[$i][0] = $document->find('td')[42];
                         $input[$i][1] = $document->find('td')[44];
@@ -450,7 +442,6 @@ class ResultController extends Controller
             // check thời gian để xử lý việc lưu dữ liệu
             date_default_timezone_set('Asia/Ho_Chi_Minh');
             $time = date('H:i:s');
-
             // check lịch
             $weekday = date("l");
             $weekday = strtolower($weekday);
@@ -1131,8 +1122,8 @@ class ResultController extends Controller
                     $ngay = $document->find('h5 > b')[1];
                     //259 là kì thay đổi giao diên mới
                     if ($inputKi < 259){
-                        // nếu kì dưới 259 thì giao diện cũ k có $model->th41 = 0;
-                        //th42 th43  th61 th62 th63 th121 th122 th123 th241 th242 th243
+                        // nếu kì dưới 259 thì giao diện cũ k có 
+                        // th41 th42 th43  th61 th62 th63 th121 th122 th123 th241 th242 th243 = 0
                         $g1 = $document->find('td[class=color_red nowrap]')[0];
                         $g2 = explode(' ', $document->find('td[class=color_red nowrap]')[1]);
                         $g21 = $g2[2];
